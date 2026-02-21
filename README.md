@@ -4,17 +4,14 @@ This project provides a comprehensive analysis of an e-commerce sales funnel and
 Recommendations
 1. Technical Optimization
 Do Not Touch the Checkout Flow: Conversion rates from Checkout Start to Purchase are excellent (~80%+).
-
 Maintain Architecture: Avoid redesigning the checkout page to prevent disrupting a perfectly working technical system.
 
 2. Marketing Strategy Pivot
 Social-to-Email Strategy: Shift social media budget away from direct "Sales" objectives and toward "Lead Gen" or "Retargeting".
-
 Email Capture: Implement aggressive email capture for social visitors, as our data proves they are significantly more likely to buy once they are on the email list.
 
 3. Financial Guardrails
 Audit Ad Spend against AOV: With an AOV of ~$115 (initially found) or the current $106.51, a strict Customer Acquisition Cost (CAC) limit is necessary.
-
 CAC Limits: Set a CAC limit of $30–$40 for social media ads to ensure transactions remain profitable.
 
 
